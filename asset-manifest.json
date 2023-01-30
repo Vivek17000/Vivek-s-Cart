@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vivek-s-Cart/static/css/main.58519de3.css",
+    "main.js": "/Vivek-s-Cart/static/js/main.bf0afd74.js",
+    "index.html": "/Vivek-s-Cart/index.html",
+    "main.58519de3.css.map": "/Vivek-s-Cart/static/css/main.58519de3.css.map",
+    "main.bf0afd74.js.map": "/Vivek-s-Cart/static/js/main.bf0afd74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58519de3.css",
+    "static/js/main.bf0afd74.js"
+  ]
+}
